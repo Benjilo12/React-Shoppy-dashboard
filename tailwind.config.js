@@ -39,7 +39,8 @@ module.exports = {
         590: "590px",
       },
       backgroundImage: {
-        "hero-pattern": "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+        "hero-pattern":
+          "(https://img.freepik.com/premium-vector/banking-finance-conceptual-website-illustration-design-2_567637-61.jpg?w=826')",
       },
     },
   },
